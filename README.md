@@ -1,2 +1,2 @@
-# Javabuildmaven
-This is a java code repo and install maven
+# Insurance
+This is a java code repo
